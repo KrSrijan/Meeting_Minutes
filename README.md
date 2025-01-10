@@ -1,5 +1,3 @@
-# Meeting_Minutes
-
 ---
 title: Meeting Minutes
 emoji: 📚
