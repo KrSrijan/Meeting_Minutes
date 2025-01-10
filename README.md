@@ -1,12 +1,3 @@
----
-title: Meeting Minutes
-emoji: 📚
-colorFrom: blue
-colorTo: red
-app_file: app.py
-short_description: Meeting Minutes
----
-
 # Meeting Minutes
 
 Welcome to the **Meeting Minutes**, a GenAI-powered application designed to transcribe video/audio recordings of meetings and automatically generate concise, accurate meeting minutes.
