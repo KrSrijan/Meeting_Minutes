@@ -1,0 +1,11 @@
+streamlit
+requests 
+torch 
+bitsandbytes 
+transformers 
+sentencepiece 
+accelerate
+moviepy
+numpy
+requests
+faster-whisper
