@@ -61,6 +61,8 @@ Transcription: Speech-to-text service integration (like Google Speech-to-Text, W
 1. Add multilingual support for transcription and summarization.
 2. Customize summaries based on meeting context (e.g., brainstorming, project updates).
 
+## Snapshots
+![image](https://github.com/user-attachments/assets/dd996690-7f5d-4397-a891-d47ca06e35de)
 
 
 ## Steps to create a HuggingFace API
