@@ -64,11 +64,13 @@ Transcription: Speech-to-text service integration (like Google Speech-to-Text, W
 
 ## Snapshots
 
+Streamlit app interface - We have uploaded a business meeting video from youtube.
 ![image](https://github.com/user-attachments/assets/dd996690-7f5d-4397-a891-d47ca06e35de)
-Streamlit app interface
 
+
+Generated meeting minutes - After Processing the video, the below meeting minute is generated.
 ![minute minute pic](https://github.com/user-attachments/assets/7e784c4a-27a1-44cb-ba3e-3c141534b77c)
-Generated meeting minutes
+
 
 
 
