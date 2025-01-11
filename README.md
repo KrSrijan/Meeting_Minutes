@@ -11,6 +11,7 @@ Welcome to the **Meeting Minutes**, a GenAI-powered application designed to tran
 - [Supported Formats](#supported-formats)
 - [Tech Stack](#tech-stack)
 - [Future Improvements](#future-improvements)
+- [Snapshots](#snapshots)
 - [Steps to generate HF_API Token](#steps-to-create-a-huggingface-api)
 
 ## Overview
@@ -62,7 +63,13 @@ Transcription: Speech-to-text service integration (like Google Speech-to-Text, W
 2. Customize summaries based on meeting context (e.g., brainstorming, project updates).
 
 ## Snapshots
+
 ![image](https://github.com/user-attachments/assets/dd996690-7f5d-4397-a891-d47ca06e35de)
+Streamlit app interface
+
+![minute minute pic](https://github.com/user-attachments/assets/7e784c4a-27a1-44cb-ba3e-3c141534b77c)
+Generated meeting minutes
+
 
 
 ## Steps to create a HuggingFace API
